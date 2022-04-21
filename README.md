@@ -2,3 +2,4 @@
 
 - Leo Romero
 - Polett Pizarro
+- isabella Risso
