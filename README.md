@@ -2,3 +2,4 @@
 
 - Leo Romero
 - Héctor Espinoza
+- Polett Pizarro
