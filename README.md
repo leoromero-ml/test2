@@ -8,3 +8,4 @@
 - isabella Risso
 - Yadira Henao
 - Fritza
+- German Russomanno 
