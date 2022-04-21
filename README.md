@@ -6,4 +6,5 @@
 - Héctor Espinoza
 - Polett Pizarro
 - isabella Risso
+- Yadira Henao
 
