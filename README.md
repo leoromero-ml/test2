@@ -1,9 +1,10 @@
 
 # test2
 
-- Leo Romero --conflict1
 - Leo Romero
+- Mauro Goyeneche
 - Héctor Espinoza
 - Polett Pizarro
 - isabella Risso
+- Yadira Henao
 
