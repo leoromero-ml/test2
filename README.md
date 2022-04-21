@@ -7,4 +7,4 @@
 - Polett Pizarro
 - isabella Risso
 - Yadira Henao
-
+- Fritza
